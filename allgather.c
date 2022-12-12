@@ -29,7 +29,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp0, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 1:
             FILE *fp1;
@@ -38,7 +37,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp1, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 2:
             FILE *fp2;
@@ -47,7 +45,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp2, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 3:
             FILE *fp3;
@@ -56,7 +53,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp3, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 4:
             FILE *fp4;
@@ -65,7 +61,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp4, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 5:
             FILE *fp5;
@@ -74,7 +69,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp5, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 6:
             FILE *fp6;
@@ -83,7 +77,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp6, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 7:
             FILE *fp7;
@@ -92,7 +85,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp7, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 8:
             FILE *fp8;
@@ -101,7 +93,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp8, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 9:
             FILE *fp9;
@@ -110,7 +101,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp9, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 10:
             FILE *fp10;
@@ -119,7 +109,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp10, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 11:
             FILE *fp11;
@@ -128,7 +117,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp11, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 12:
             FILE *fp12;
@@ -137,7 +125,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp12, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 13:
             FILE *fp13;
@@ -146,7 +133,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp13, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 14:
             FILE *fp14;
@@ -155,7 +141,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp14, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
         case 15:
             FILE *fp15;
@@ -164,7 +149,6 @@ void check(){
             for (int i = 0; i < 16; i++){
                 fprintf(fp15, "%d ", allgathered_data[i]);
             }
-            printf("\n");
             break;
     }
 }
